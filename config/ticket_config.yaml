@@ -60,12 +60,12 @@ set:
   # - "张三"
   # - "李四"
   ticke_peoples:
-    - ""
+    - "时华双"
 
   # 12306登录账号(list)
   12306account:
-    - user: "qqxin1011"
-    - pwd: ""
+    - user: "philip8728"
+    - pwd: "philip9898"
 
 # 加入小黑屋时间默认为5分钟，此功能为了防止僵尸票导致一直下单不成功错过正常的票，
 ticket_black_list_time: 5
@@ -78,8 +78,8 @@ auto_code_type: 2
 
 # 打码平台账号
 auto_code_account:
-  user: "931128603"
-  pwd: ""
+  user: "philip8728"
+  pwd: "philip9898"
 
 #  邮箱配置，如果抢票成功，将通过邮件配置通知给您
 #  列举163
@@ -96,11 +96,11 @@ auto_code_account:
 #  host: "smtp.qq.com"
 email_conf:
   is_email: True
-  email: "931128603@qq.com "
-  notice_email_list: "931128603@qq.com"
-  username: "931128603"
-  password: ""
-  host: "smtp.qq.com"
+  email: "lidai8728@163.com"
+  notice_email_list: "lidai8728@163.com"
+  username: "lidai8728@163.com"
+  password: "Lid@i9669"
+  host: "smtp.163.com"
 
 # 是否开启 pushbear 微信提醒， 使用前需要前往 http://pushbear.ftqq.com 扫码绑定获取 send_key 并关注获得抢票结果通知的公众号
 pushbear_conf:
